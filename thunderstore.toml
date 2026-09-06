@@ -10,8 +10,8 @@ websiteUrl = "https://github.com/SGG-Modding/SeerSuite"
 containsNsfwContent = false
 
 [package.dependencies]
-Hell2Modding-Hell2Modding = "1.0.22"
-SGG_Modding-ENVY = "1.0.0"
+Hell2Modding-Hell2Modding = "1.0.111"
+SGG_Modding-ENVY = "1.2.1"
 
 [build]
 icon = "./icon.png"
